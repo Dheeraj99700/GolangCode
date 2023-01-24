@@ -1,0 +1,22 @@
+[
+ {
+  "id": "Mobiles",
+  "description": "Welcome to Mobile Window",
+  "price": "50000"
+ },
+ {
+  "id": "Tab",
+  "description": "Welcome to Tab Window",
+  "price": "60000"
+ },
+ {
+  "id": "Laptop",
+  "description": "Welcome to Laptop Window",
+  "price": "80000"
+ },
+ {
+  "id": "Light",
+  "description": "Welcome to Lights Window",
+  "price": "60000"
+ }
+]
